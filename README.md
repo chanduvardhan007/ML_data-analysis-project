@@ -1,0 +1,1 @@
+This is a machine learning project in which the given data sets are analysed using efficient machine learning algorithms and Visualize graphs by analysing the data and improves the accuracy each time it is compiled.
